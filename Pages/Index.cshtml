@@ -1,0 +1,54 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "דף הבית";
+}
+<link rel="stylesheet" href="/css/styles.css">
+<style>
+    .highlight {
+        text-align: center;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #fff;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .highlight:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+    .highlight-link {
+        text-decoration: none;
+        color: inherit; /* לשמור על צבעי הטקסט הקיימים */
+        display: block; /* להפוך את כל העמודה ללחיצה */
+    }
+
+</style>
+<section class="hero">
+    <h2>ברוכים הבאים לסמינר בנות לאה</h2>
+    <p>המקום שבו חינוך, ערכים ומקצועיות נפגשים.</p>
+</section>
+
+<section class="highlights">
+    <div class="highlight">
+        <a href="/About" class="highlight-link">
+            <h3>אודות הסמינר</h3>
+            <p>חינוך מקצועי וערכי לדור הבא.</p>
+        </a>
+    </div>
+    <div class="highlight">
+        <a href="/Majors" class="highlight-link">
+            <h3>מגמות הלימוד</h3>
+            <p>מגוון רחב של תחומי לימוד מרתקים.</p>
+        </a>
+    </div>
+    <div class="highlight">
+        <a href="/Contact" class="highlight-link">
+            <h3>צור קשר</h3>
+            <p>נשמח לעמוד לרשותכם בכל שאלה.</p>
+        </a>
+    </div>
+
+</section>

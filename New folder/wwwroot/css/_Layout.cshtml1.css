@@ -1,0 +1,113 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/images/background.png'); /* נתיב התמונה */
+    background-size: cover; /* התמונה תכסה את כל המסך */
+    background-repeat: no-repeat; /* לא לחזור על התמונה */
+    background-attachment: fixed; /* הרקע יישאר מקובע */
+    background-position: center top; /* יישור מרכזי בחלק העליון */
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+
+header {
+    background-color: white;
+    color: #333; /* טקסט כהה */
+}
+
+
+.logo {
+    height: 60px;
+    margin: 0;
+}
+
+header h1 {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 1.8em;
+    color: #333;
+    margin: 0;
+}
+
+.logo {
+    height: 50px; /* גובה לוגו */
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333; /* שחור כהה */
+}
+
+    nav ul li {
+        margin: 0 10px;
+    }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 10px 20px;
+            display: block;
+            transition: background-color 0.3s;
+        }
+
+            nav ul li a:hover {
+                background-color: #333; /* ירוק בהיר */
+                border-radius: 5px;
+            }
+.hero {
+    background-color: #f2f9ff; /* רקע כחול בהיר */
+    text-align: center;
+    padding: 50px 0;
+}
+
+    .hero h2 {
+        color: #333; /* ירוק */
+        font-size: 2.5em;
+    }
+
+.highlights {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px; /* רווחים בין התיבות */
+    padding: 20px;
+    background-color: #e0f7fa; /* רקע כחול עדין */
+}
+
+.highlight {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+    .highlight h3 {
+        color: #333; /* ירוק */
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+
+
+footer {
+    background-color: #333; /* שחור כהה */
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+}
+

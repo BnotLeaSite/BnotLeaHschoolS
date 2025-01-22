@@ -1,0 +1,125 @@
+﻿@page
+@model MajorsModel
+@{
+    //Layout = "_Layout";
+    ViewData["Title"] = "מגמות";
+}
+<link rel="stylesheet" href="/css/styles.css">
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f9f9f9;
+    }
+
+    .highlights {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .highlight {
+        position: relative;
+        width: 30%;
+        text-align: center;
+        padding: 20px;
+        border-radius: 10px;
+        color: white;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .highlight:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+        }
+
+    .popup {
+        position: absolute;
+        bottom: 120%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        text-align: center;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+
+    .highlight:hover .popup {
+        opacity: 1;
+        visibility: visible;
+    }
+</style>
+<script>
+    document.querySelectorAll('.highlight').forEach(function (highlight) {
+        const popup = highlight.querySelector('.popup');
+
+        highlight.addEventListener('mouseenter', function () {
+            popup.style.opacity = '1';
+            popup.style.visibility = 'visible';
+        });
+
+        highlight.addEventListener('mouseleave', function () {
+            popup.style.opacity = '0';
+            popup.style.visibility = 'hidden';
+        });
+    });
+</script>
+
+<section class="card p-4">
+    @*<h2>מגמות בתיכון בנות לאה</h2>*@
+    <div class="highlights">
+        <div class="highlight" style="background-color: #ffcc00;">
+            <h3>חינוך והוראה</h3>
+            <p>מסלול להכשרת מורות מקצועיות ותעודת מורה מוסמכת בכירה.</p>
+            <div class="popup">
+                <p>מסלול החינוך וההוראה מכשיר מורות בעלות מקצועיות גבוהה בתחומי ההוראה והחינוך.</p>
+            </div>
+        </div>
+        <div class="highlight" style="background-color: #6699cc;">
+            <h3>הנדסת תוכנה</h3>
+            <p>תכנות מונחה עצמים, מערכות מידע, ופרויקט גמר בתחום ההייטק.</p>
+            <div class="popup">
+                <p>מסלול הנדסת תוכנה מתמקד בפיתוח טכנולוגיות חדשניות עם דגש על יישומי הייטק.</p>
+            </div>
+        </div>
+        <div class="highlight" style="background-color: #cc3300;">
+            <h3>ייעוץ מס</h3>
+            <p>התמחות במיסוי, חשבונאות וייעוץ פיננסי.</p>
+            <div class="popup">
+                <p>מסלול ייעוץ מס מכשיר יועצות בעלות מומחיות בתחום המס והחשבונאות.</p>
+            </div>
+        </div>
+        <div class="highlight" style="background-color: #33cc33;">
+            <h3>אדריכלות</h3>
+            <p>שרטוט, עיצוב ותכנון מבנים, כולל שימוש בתוכנות מתקדמות.</p>
+            <div class="popup">
+                <p>מסלול אדריכלות מתמקד ביצירתיות ועיצוב תוך שימוש בתוכנות שרטוט מתקדמות.</p>
+            </div>
+        </div>
+        <div class="highlight" style="background-color: #00b3b3;">
+            <h3>ניהול רפואי</h3>
+            <p>התמחות במנהל רפואי, רשומות רפואיות, ואתיקה ברפואה.</p>
+            <div class="popup">
+                <p>מסלול ניהול רפואי משלב בין תחומי הניהול והבריאות עם התמחות ברשומות רפואיות.</p>
+            </div>
+        </div>
+        <div class="highlight" style="background-color: #ff9966;">
+            <h3>ספורט טיפולי</h3>
+            <p>הכשרת מדריכות בספורט טיפולי וכושר גופני.</p>
+            <div class="popup">
+                <p>מסלול ספורט טיפולי שם דגש על פיתוח כישורים פיזיים ורגשיים באמצעות כושר.</p>
+            </div>
+        </div>
+    </div>
+
+</section>

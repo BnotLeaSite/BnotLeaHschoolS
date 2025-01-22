@@ -1,0 +1,7 @@
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\BnotLeaHschool.exe
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\BnotLeaHschool.dll
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\BnotLeaHschool.deps.json
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\BnotLeaHschool.runtimeconfig.json
+C:\Avishag\BnotLeaHschool\obj\Release\net6.0\PubTmp\Out\BnotLeaHschool.pdb

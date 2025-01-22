@@ -1,0 +1,1161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BnotLeaHschool.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BnotLeaHschool.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\css\\_Layout.cshtml1.css",
+      "PackagePath": "staticwebassets\\css\\_Layout.cshtml1.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\files\\regulations.pdf",
+      "PackagePath": "staticwebassets\\files\\regulations.pdf"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4389.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4389.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4390.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4390.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4391.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4391.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4393.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4393.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4394.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4394.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4395.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4395.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4396.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4396.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4397.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_4397.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170135.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170135.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170136.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170136.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170139.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170139.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170140.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170140.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170141.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170141.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170143.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170143.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1170145.jpg",
+      "PackagePath": "staticwebassets\\images\\P1170145.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190281.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190281.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190282.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190282.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190284.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190284.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190286.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190286.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190287.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190287.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190288.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190288.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190291.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190291.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190292.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190292.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190294.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190294.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190295.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190295.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190296.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190296.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190299.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190299.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190300.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190300.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190301.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190301.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190302.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190302.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190303.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190303.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190304.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190304.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190305.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190305.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190307.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190307.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190310.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190310.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190312.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190312.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190320.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190320.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190321.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190321.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190324.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190324.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190326.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190326.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190332.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190332.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190339.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190339.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190340.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190340.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190342.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190342.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190343.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190343.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190345.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190345.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190346.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190346.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190347.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190347.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190348.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190348.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190349.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190349.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190350.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190350.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190351.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190351.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190354.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190354.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190357.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190357.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190358.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190358.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190359.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190359.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190360.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190360.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190364.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190364.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190365.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190365.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190366.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190366.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190369.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190369.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190372.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190372.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190373.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190373.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190374.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190374.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190379.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190379.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190380.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190380.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190387.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190387.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190388.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190388.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190392.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190392.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190394.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190394.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190397.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190397.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190399.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190399.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190401.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190401.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190402.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190402.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190403.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190403.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190404.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190404.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190405.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190405.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190407.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190407.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190409.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190409.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190410.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190410.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190411.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190411.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190412.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190412.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190415.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190415.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190420.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190420.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190422.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190422.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1190429.jpg",
+      "PackagePath": "staticwebassets\\images\\P1190429.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230334.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230334.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230335.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230335.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230336.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230336.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230337.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230337.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230338.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230338.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230339.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230339.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230340.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230340.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230341.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230341.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230342.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230342.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230343.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230343.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230344.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230344.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230345.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230345.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230346.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230346.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230347.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230347.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230348.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230348.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230349.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230349.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230350.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230350.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230351.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230351.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230352.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230352.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230353.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230353.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230354.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230354.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230355.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230355.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230356.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230356.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230357.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230357.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230358.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230358.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230359.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230359.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230360.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230360.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230361.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230361.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230362.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230362.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230363.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230363.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230364.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230364.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230365.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230365.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230366.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230366.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230367.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230367.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230368.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230368.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230369.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230369.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230370.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230370.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230371.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230371.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230372.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230372.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230373.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230373.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230374.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230374.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230375.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230375.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230376.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230376.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230377.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230377.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230379.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230379.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230380.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230380.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230381.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230381.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230382.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230382.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230383.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230383.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230384.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230384.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230385.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230385.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230386.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230386.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230387.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230387.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230388.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230388.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230389.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230389.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230390.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230390.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230391.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230391.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230392.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230392.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230393.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230393.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230394.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230394.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230607.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230607.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230608.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230608.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230609.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230609.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230610.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230610.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230611.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230611.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230612.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230612.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230613.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230613.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230614.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230614.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230615.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230615.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230616.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230616.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230617.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230617.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230618.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230618.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230619.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230619.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230620.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230620.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230621.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230621.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230622.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230622.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230623.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230623.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230624.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230624.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230625.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230625.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230626.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230626.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230627.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230627.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230628.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230628.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230629.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230629.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230630.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230630.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230631.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230631.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230632.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230632.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230633.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230633.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230634.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230634.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230636.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230636.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230637.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230637.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230638.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230638.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230639.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230639.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230640.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230640.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230641.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230641.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230642.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230642.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230643.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230643.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230644.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230644.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230645.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230645.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230646.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230646.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230647.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230647.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230648.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230648.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230649.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230649.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230650.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230650.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230651.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230651.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230652.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230652.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230653.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230653.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230654.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230654.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230655.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230655.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230656.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230656.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230660.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230660.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230661.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230661.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230662.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230662.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1230663.jpg",
+      "PackagePath": "staticwebassets\\images\\P1230663.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240397.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240397.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240398.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240398.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240399.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240399.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240400.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240400.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240401.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240401.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240402.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240402.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240403.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240403.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240404.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240404.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240405.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240405.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240406.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240406.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240407.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240407.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240408.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240408.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240419.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240419.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240420.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240420.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\P1240421.jpg",
+      "PackagePath": "staticwebassets\\images\\P1240421.jpg"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background1.png",
+      "PackagePath": "staticwebassets\\images\\background1.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\logo-center.png",
+      "PackagePath": "staticwebassets\\images\\logo-center.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\logo-left.png",
+      "PackagePath": "staticwebassets\\images\\logo-left.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\logo-right.png",
+      "PackagePath": "staticwebassets\\images\\logo-right.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\לוגו סמינר קטן.png",
+      "PackagePath": "staticwebassets\\images\\לוגו סמינר קטן.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\לוגו סמינר שחור.png",
+      "PackagePath": "staticwebassets\\images\\לוגו סמינר שחור.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.BnotLeaHschool.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.BnotLeaHschool.props",
+      "PackagePath": "build\\BnotLeaHschool.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BnotLeaHschool.props",
+      "PackagePath": "buildMultiTargeting\\BnotLeaHschool.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.BnotLeaHschool.props",
+      "PackagePath": "buildTransitive\\BnotLeaHschool.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

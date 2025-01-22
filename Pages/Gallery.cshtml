@@ -1,0 +1,57 @@
+﻿@page
+@model GalleryModel
+@{
+    //Layout = "_Layout";
+    ViewData["Title"] = "גלריה";
+}
+<link rel="stylesheet" href="/css/styles.css">
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</head>
+<section class="text-center">
+    @*<h2>גלריה</h2>*@
+    <div class="gallery">
+        <!-- כאן יטענו התמונות בצורה רנדומלית -->
+    </div>
+</section>
+<script>
+    function loadRandomImages() {
+        $.ajax({
+            url: '@Url.Page("Gallery", "GetRandomImages")',
+            success: function (data) {
+                $('.gallery img').removeClass('show');
+                setTimeout(function() {
+                    $('.gallery').html('');
+                    data.forEach(function (image) {
+                        $('.gallery').append('<img src="' + image + '" alt="תמונת גלריה" class="img-fluid">');
+                    });
+                    $('.gallery img').addClass('show');
+                }, 500);
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        loadRandomImages();
+        setInterval(loadRandomImages, 5000); // כל 5 שניות טוען מחדש תמונות
+    });
+</script>
+<style>
+    .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .gallery img {
+        margin: 10px;
+        max-width: 100%;
+        max-height: 300px; /* את יכולה להתאים את הגובה לפי הצורך */
+        transition: opacity 0.5s ease-in-out;
+        opacity: 0;
+    }
+    .gallery img.show {
+        opacity: 1;
+    }
+</style>

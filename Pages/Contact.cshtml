@@ -1,0 +1,111 @@
+﻿@page
+@model ContactModel
+@{
+    //Layout = "_Layout";
+    ViewData["Title"] = "יצירת קשר";
+}
+<link rel="stylesheet" href="/css/styles.css">
+<style>
+    .contact-form {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+        .contact-form h1 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .contact-form .form-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+
+        .contact-form label {
+            display: block;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+
+        .contact-form .send-btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background-color 0.3s;
+        }
+
+            .contact-form .send-btn:hover {
+                background-color: #0056b3;
+            }
+
+</style>
+<section class="contact-form">
+    <h1>צור קשר</h1>
+    <form id="contactForm">
+        <div class="form-group">
+            <label for="name">שם מלא:</label>
+            <input type="text" id="name" name="name" placeholder="הכנס שם מלא" required>
+        </div>
+        <div class="form-group">
+            <label for="email">אימייל:</label>
+            <input type="email" id="email" name="email" placeholder="הכנס כתובת אימייל" required>
+        </div>
+        <div class="form-group">
+            <label for="message">הודעה:</label>
+            <textarea id="message" name="message" placeholder="כתוב כאן את הודעתך" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="send-btn">שלח</button>
+    </form>
+    <p id="responseMessage" style="display: none;"></p>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+<script>
+    (function () {
+        emailjs.init('-kbdwTLCNq2gQNF1N'); // Public Key שלך
+    })();
+
+    document.getElementById('contactForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+
+        const formData = {
+            name: document.getElementById('name').value,
+            email: document.getElementById('email').value,
+            message: document.getElementById('message').value
+        };
+
+        emailjs.send('service_x97ai4f', 'template_vanikgj', formData)
+            .then(function () {
+                document.getElementById('responseMessage').innerText = "ההודעה נשלחה בהצלחה!";
+                document.getElementById('responseMessage').style.color = "green";
+                document.getElementById('responseMessage').style.display = "block";
+            }, function (error) {
+                document.getElementById('responseMessage').innerText = "אירעה שגיאה בשליחת ההודעה. נסי שוב.";
+                document.getElementById('responseMessage').style.color = "red";
+                document.getElementById('responseMessage').style.display = "block";
+            });
+
+        // ניקוי הטופס לאחר שליחה
+        document.getElementById('contactForm').reset();
+    });
+</script>
+

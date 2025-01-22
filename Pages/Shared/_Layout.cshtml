@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="/_Layout.cshtml1.css">
+    <title>@ViewData["Title"]</title>
+</head>
+
+<style>
+    nav ul li.active a {
+        background-color: #00b3b3; /* צבע ייחודי */
+        color: white; /* צבע טקסט */
+        font-weight: bold;
+        border-radius: 5px;
+    }
+
+</style>
+<body>
+    <header>
+        <img src="/images/logo-left.png" alt="לוגו 1" style="height: 50px;">
+        @*<h1>סמינר בנות לאה</h1>*@
+        <img src="/images/logo-right.png" alt="לוגו 2" style="height: 50px;">
+        <img src="/images/logo-center.png" alt="לוגו 2" style="height: 50px;">
+    </header>
+    <nav>
+        <ul>
+            <li class="@(ViewData["ActivePage"] as string == "Home" ? "active" : "")"><a href="/">בית</a></li>
+            <li class="@(ViewData["ActivePage"] as string == "About" ? "active" : "")"><a href="/About">אודות</a></li>
+            <li class="@(ViewData["ActivePage"] as string == "Majors" ? "active" : "")"><a href="/Majors">מגמות</a></li>
+            <li class="@(ViewData["ActivePage"] as string == "Gallery" ? "active" : "")"><a href="/Gallery">גלריה</a></li>
+            <li class="@(ViewData["ActivePage"] as string == "Contact" ? "active" : "")"><a href="/Contact">צור קשר</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        @RenderBody()
+    </main>
+    <footer style="display:none">
+        @*<p>© 2025 כל הזכויות שמורות לסמינר בנות לאה</p>*@
+    </footer>
+</body>
+</html>
