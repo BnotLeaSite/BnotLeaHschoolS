@@ -14,5 +14,9 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    background-image: url('/images/background.svg');
+    background-size: cover; /* מתאים את הרקע כך שיכסה את כל המסך */
+    background-repeat: no-repeat; /* מונע חזרה של הרקע */
+    background-attachment: fixed; /* שומר את הרקע קבוע גם בגלילה */
+    background-position: center; /* ממרכז את התמונה */
 }

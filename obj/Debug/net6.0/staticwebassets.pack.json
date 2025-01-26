@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BnotLeaHschool.bundle.scp.css"
     },
     {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
       "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\css\\_Layout.cshtml1.css",
       "PackagePath": "staticwebassets\\css\\_Layout.cshtml1.css"
     },
@@ -885,8 +889,16 @@
       "PackagePath": "staticwebassets\\images\\background.png"
     },
     {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background.svg",
+      "PackagePath": "staticwebassets\\images\\background.svg"
+    },
+    {
       "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background1.png",
       "PackagePath": "staticwebassets\\images\\background1.png"
+    },
+    {
+      "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background1.svg",
+      "PackagePath": "staticwebassets\\images\\background1.svg"
     },
     {
       "Id": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\logo-center.png",

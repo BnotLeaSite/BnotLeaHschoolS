@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ugEBs8p8VSM+ywGGT/CXKDbo84KsPNfsRyvPONcYbBY=",
+  "Hash": "Di12l7aPytfiByfYld9Lm07oBC+p7uR86MCz5ZuGNRs=",
   "Source": "BnotLeaHschool",
   "BasePath": "_content/BnotLeaHschool",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Avishag\\BnotLeaHschool\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BnotLeaHschool.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\appsettings.json",
+      "SourceId": "BnotLeaHschool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\",
+      "BasePath": "_content/BnotLeaHschool",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\css\\_Layout.cshtml1.css",
@@ -153,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\images\\background.png"
     },
     {
+      "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background.svg",
+      "SourceId": "BnotLeaHschool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\",
+      "BasePath": "_content/BnotLeaHschool",
+      "RelativePath": "images/background.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\background.svg"
+    },
+    {
       "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background1.png",
       "SourceId": "BnotLeaHschool",
       "SourceType": "Discovered",
@@ -168,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\background1.png"
+    },
+    {
+      "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\background1.svg",
+      "SourceId": "BnotLeaHschool",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\",
+      "BasePath": "_content/BnotLeaHschool",
+      "RelativePath": "images/background1.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\background1.svg"
     },
     {
       "Identity": "C:\\Avishag\\BnotLeaHschool\\wwwroot\\images\\IMG_4389.jpg",

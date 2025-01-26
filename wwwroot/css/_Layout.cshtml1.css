@@ -49,6 +49,7 @@ nav ul {
     display: flex;
     justify-content: center;
     background-color: #333; /* שחור כהה */
+    margin-top: 8%; /* המרווח מלמעלה */
 }
 
     nav ul li {

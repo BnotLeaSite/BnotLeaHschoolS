@@ -1,18 +1,14 @@
 /* _content/BnotLeaHschool/Pages/Shared/_Layout.cshtml.rz.scp.css */
 body[b-6qq208snm1] {
-    margin: 0;
-    padding: 0;
-    background-image: url('/images/background.png'); /* נתיב התמונה */
-    background-size: cover; /* התמונה תכסה את כל המסך */
-    background-repeat: no-repeat; /* לא לחזור על התמונה */
-    background-attachment: fixed; /* הרקע יישאר מקובע */
-    background-position: center top; /* יישור מרכזי בחלק העליון */
-    font-family: Arial, sans-serif;
-    color: #333;
+    background-image: url('/images/background.svg');
+    background-size: cover; /* מתאים את הרקע כך שיכסה את כל המסך */
+    background-repeat: no-repeat; /* מונע חזרה של הרקע */
+    background-attachment: fixed; /* שומר את הרקע קבוע גם בגלילה */
+    background-position: center; /* ממרכז את התמונה */
 }
 
 header[b-6qq208snm1] {
-    background-color: white;
+    /*background-color: white;*/
     color: #333; /* טקסט כהה */
 }
 

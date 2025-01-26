@@ -12,7 +12,7 @@ namespace BnotLeaHschool.Pages
         private static readonly Random random = new Random();
         private const int NumberOfImagesToShow = 5;
 
-        [HttpGet]
+        //[HttpGet]
         public JsonResult OnGetGetRandomImages()
         {
             var imagesPath = Path.Combine(Environment.CurrentDirectory, "wwwroot/images");
